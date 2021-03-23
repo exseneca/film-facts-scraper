@@ -1,0 +1,15 @@
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.csprojAssemblyReference.cache
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.AssemblyInfoInputs.cache
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.AssemblyInfo.cs
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper.deps.json
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper.runtimeconfig.json
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper.runtimeconfig.dev.json
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper.dll
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/ImdbWebScraper.pdb
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.dll
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.pdb
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/obj/Debug/netcoreapp3.0/ImdbWebScraper.csproj.CopyComplete
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/Users/samdavidson/Documents/Projects/ImdbWebscraper/src/ImdbWebScraper/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
